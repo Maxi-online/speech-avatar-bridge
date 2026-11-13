@@ -1,0 +1,12 @@
+-r requirements.txt
+openai>=1.50,<3
+langchain-openai>=0.3,<2
+langchain-community>=0.3,<1
+langchain-text-splitters>=0.3,<2
+faiss-cpu>=1.9,<2
+requests>=2.32.4,<3
+grpcio>=1.67,<2
+yandexcloud>=0.320,<1
+yandex-speechkit>=1.5,<2
+pydub>=0.25,<1
+numpy>=1.26,<3

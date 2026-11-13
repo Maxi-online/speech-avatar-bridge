@@ -1,0 +1,27 @@
+# Reviewed source allowlist. Private local material is ignored by default.
+*
+!*/
+!/.env.example
+!/.github/workflows/offline-checks.yml
+!/.github/workflows/secret-scan.yml
+!/.gitignore
+!/LICENSE
+!/README.md
+!/SECURITY.md
+!/bot.py
+!/check_source.py
+!/examples/knowledge.md
+!/examples/system_prompt.md
+!/fastapi/chunks.py
+!/fastapi/main.py
+!/fastapi/mappings.py
+!/fastapi/phonemes.py
+!/fastapi/protocol.py
+!/offline_demo.py
+!/operator-guide.md
+!/requirements-bot.txt
+!/requirements-checks.txt
+!/requirements-providers.txt
+!/requirements.txt
+!/start.py
+!/tests/test_bridge.py
