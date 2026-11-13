@@ -38,3 +38,9 @@
 **/__pycache__/
 .env*
 !.env.example
+
+# Reviewed publication privacy gate.
+!/publication_guard.py
+!/publication_policy.json
+!/.github/workflows/publication-privacy.yml
+!/tests/publication/test_guard.py
