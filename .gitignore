@@ -25,3 +25,16 @@
 !/requirements.txt
 !/start.py
 !/tests/test_bridge.py
+
+# Never stage original private material or nested vendor checkouts.
+/cloudapi/
+/ffmpeg/
+/ffmpeg-/
+/Input Voices/
+/fastapi/bases/
+/fastapi/prompts/
+/fastapi/vector_store/
+/fastapi/data/
+**/__pycache__/
+.env*
+!.env.example
