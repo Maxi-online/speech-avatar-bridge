@@ -1,0 +1,165 @@
+{
+  "purpose": "Engineering prose, comments, docstrings, prompts, UI labels and setup instructions are English. Exact reviewed linguistic data retains its source-language semantics. No directory is excluded.",
+  "data_literals": [
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "823c4eb3e895adc925a755d89cea1c6c46954c999d23604e0091788b75496159",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "9aa032336a8e122c4aab83dad39e803a0023c1ae5de114e7114c391ec1a2c662",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "b8012cb642c887a0a4f6f8e52fc6d97946274076ba64b113dff1db0a0ca37caa",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "ab1f4be7e5d6fd8b9fec4b5c00233d0b895abb00b0bdf4c7a03b7e403246691e",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "1cc10a3947f7c2457d9aeb9d468b418157d72f1e3d84f82e08e81718305ff909",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "259f56cb715ba3a3f1ca41a4ff1972cca698cb49eef1ae018dff325507da8b26",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "30fbc377ae9122edc2cdbed70b9261817d196eca8db96ac8bfa4cfaf412667ac",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "dd591284d827e17f0f15706e4e430548c62b4f93d2847e0fcc7972b4aed83551",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "3051067c6324c63f833a7bb009fdc9e6ad9a518fb37678185c68a38d346a4463",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "eead37caf818d0fae6de8adfc9645ca50de4a3be6ff9756bbab0d0a139a801af",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "15f2ccabeb425c29c67317f181d744944e9c477d09fb42aacdbb4f64e1afcc3f",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "5225a95b111d47bf4c85281b89d99e31140bf124048d2b574b189225244da605",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "d92fff560eb5495ec2b4207be8883815a99c306ac8602cd750a74e95ac4e886c",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "7b0ff8a2e5fdd66d7cbc4556d7f54a0fddf87bee5f7a7276e66c06b05fdefa2b",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "05d4ae78b6f1bfee6e0f28d825d74c7f622c6ea1659c2154e55fa6ed185f520d",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "50338c005c41fb4e6e6b74c9f7f8d0f56ae08517102498639f8a610b06cd9859",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "34c6fbb62da8ce5c68089f837d44c62e43f0a983c7ca88c3806e44cf482bb935",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "734dbc2b54ab6c95217ac8dbd3b3419f5b9486ab4675b5d4b548ff3d0a73385d",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "a1f5d39a12e8f6bed437ee6c16fa961dcd6a5af84e1518290a577a029e7501e2",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "0940401102b8a3fed0b112f47f121f8c816c7af4795f26abee4ef4b85c77d6fb",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "beee80c256b458da481e27298893e41760a978aa0fd3eccf277eba4998540106",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "754309a41e0df98ae2d0a8c29921e8469ee39364b67c27b317f7f56e95dbc861",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "bb69a96efca3303efa0b31c6438eb8da40b5fb4e785e01d07eb99b82aeb66520",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "7592b7ec4eba966a851b55e6900a3c389ba77bfa883c25b90c686ee37df29e6d",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "40831c5d98a57dfcf5017bbb64925e863d0ed9396e3cc0517c23042a9e96ebc8",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "4f60bd4e24e7dc7f90c8a373bf18b38657abec5fcc8a6f9a3222815245e302de",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "bbb369f210d2969fd1b4a6e940daaa7e201ebed37ec70dfc305bc4255328ac78",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "446cdc8e3c0d7efc9b095f101a1d6a3404e91d3a26572b766e665f7d6181cfb8",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "ee71f8405f87d78678630819a65060678a4dc40777f7500cca2f3a1ed30f305e",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "37d43a57a463add59b4bb3f8415de9d4e315c68580d7f45961c159a0c7930292",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "fastapi/mappings.py",
+      "sha256": "9b21f5cf014c9efb35110dcccf3a74eab7fb903d1ca2f4054b3dad9ffabb7727",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    },
+    {
+      "path": "tests/test_bridge.py",
+      "sha256": "5e1a59ffbb2bc3efb74e0d25bee87960cc104ec96efd41c061c97babc2f7eaff",
+      "reason": "Source-language vocabulary, external data schema, or a linguistic parser fixture; retain the exact runtime value."
+    }
+  ]
+}
